@@ -20,7 +20,8 @@
   
   <br>
   
-  ![CalulatorCSharp](https://github.com/richinatl/CSharpCalculator/assets/95508564/a4b5c04f-f79e-4017-b4ac-6a64f636dd89)
+  ![CalcCSharpUpdated](https://github.com/richinatl/CSharpCalculator/assets/95508564/5bca4d6c-2013-4cd2-9d4d-376c625b47b6)
+
   
   <br>
 
