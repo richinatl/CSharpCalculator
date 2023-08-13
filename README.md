@@ -19,7 +19,9 @@
   next few weeks I'll be adding several small projects in C# as I keep working hard and expanding my knowlege.
   
   <br>
+  
   ![CalulatorCSharp](https://github.com/richinatl/CSharpCalculator/assets/95508564/a4b5c04f-f79e-4017-b4ac-6a64f636dd89)
+  
   <br>
 
   ## Installation
